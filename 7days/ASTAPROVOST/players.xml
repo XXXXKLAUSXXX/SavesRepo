@@ -1,25 +1,28 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <persistentplayerdata>
-  <player platform="EOS" userid="0002e60092724729b7ca1f0992529f00" nativeplatform="Steam" nativeuserid="76561198852565923" playername="ANGL" lastlogin="2024-11-11 07:48:39" position="41,66,866">
+  <player platform="EOS" userid="0002e60092724729b7ca1f0992529f00" nativeplatform="Steam" nativeuserid="76561198852565923" playername="ANGL" lastlogin="2024-11-13 05:46:39" position="-259,68,831">
+    <acl platform="EOS" userid="0002e2a267054e9697d3a76e167f6b86" />
+    <acl platform="EOS" userid="00026c0de0cd46b5876cbfbb5d2da47e" />
+    <acl platform="EOS" userid="00020bfa8d294adbaae216a48f72b8c0" />
     <lpblock pos="-459,73,454" />
     <bedroll pos="-265,66,834" />
   </player>
-  <player platform="EOS" userid="0002e2a267054e9697d3a76e167f6b86" nativeplatform="Steam" nativeuserid="76561197997553792" playername="Dr Evazan's Decraniation Station" lastlogin="2024-11-11 07:48:39" position="41,66,869">
+  <player platform="EOS" userid="0002e2a267054e9697d3a76e167f6b86" nativeplatform="Steam" nativeuserid="76561197997553792" playername="Dr Evazan's Decraniation Station" lastlogin="2024-11-13 05:46:39" position="-263,66,834">
     <acl platform="EOS" userid="00020bfa8d294adbaae216a48f72b8c0" />
+    <acl platform="EOS" userid="0002e60092724729b7ca1f0992529f00" />
+    <acl platform="EOS" userid="00026c0de0cd46b5876cbfbb5d2da47e" />
     <lpblock pos="-522,61,566" />
     <bedroll pos="-266,66,834" />
-    <questpositions>
-      <position id="1455497078" positiondatatype="4" pos="-402,60,461" />
-      <position id="1455497078" positiondatatype="0" pos="-535,62,480" />
-      <position id="1455497078" positiondatatype="1" pos="-402,60,461" />
-    </questpositions>
   </player>
-  <player platform="EOS" userid="00026c0de0cd46b5876cbfbb5d2da47e" nativeplatform="Steam" nativeuserid="76561197992201675" playername="BigToe" lastlogin="2024-11-11 07:47:07" position="42,66,867">
+  <player platform="EOS" userid="00026c0de0cd46b5876cbfbb5d2da47e" nativeplatform="Steam" nativeuserid="76561197992201675" playername="BigToe" lastlogin="2024-11-13 05:46:32" position="-263,61,848">
+    <acl platform="EOS" userid="0002e2a267054e9697d3a76e167f6b86" />
+    <acl platform="EOS" userid="0002e60092724729b7ca1f0992529f00" />
     <lpblock pos="-437,75,609" />
     <bedroll pos="-270,66,833" />
   </player>
-  <player platform="EOS" userid="00020bfa8d294adbaae216a48f72b8c0" nativeplatform="Steam" nativeuserid="76561198354249965" playername="Mass Nerder" lastlogin="2024-11-11 07:48:39" position="39,66,863">
+  <player platform="EOS" userid="00020bfa8d294adbaae216a48f72b8c0" nativeplatform="Steam" nativeuserid="76561198354249965" playername="Mass Nerder" lastlogin="2024-11-13 05:46:39" position="-250,61,868">
     <acl platform="EOS" userid="0002e2a267054e9697d3a76e167f6b86" />
+    <acl platform="EOS" userid="0002e60092724729b7ca1f0992529f00" />
     <bedroll pos="-264,66,833" />
   </player>
 </persistentplayerdata>
